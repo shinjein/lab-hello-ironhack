@@ -1,0 +1,67 @@
+.app {
+    background-color: darkblue;
+}
+.dark {
+    background-image: ;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 5rem;
+    margin-bottom: 4rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+img {
+    max-width: 100px;
+}
+
+h1 {
+    font-size: 4rem;
+    max-width: 50%;
+}
+
+h5 {
+    max-width: 35%;
+    margin-bottom: 3rem;
+    margin-top: -2rem;
+}
+
+button {
+    padding: 1rem;
+    background-color: white;
+    border-radius: 0.2rem;
+    border: none;
+    border-color: white;
+    box-shadow: none;
+}
+
+.dark-text {
+    margin-top: -2rem;
+    margin-bottom: 3rem;
+    max-width: 45%;
+}
+.banner-img {
+    margin-top: 1rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.nav {
+    background-color: darkblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    background-color: white;
+    font-family: sans-serif;
+}
+
+article {
+    flex-direction: column;
+    margin: 2rem;
+}
